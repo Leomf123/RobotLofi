@@ -1,0 +1,19 @@
+
+
+header{
+	border: 1px solid black;
+	height: 200px;
+	text-align: center;
+}
+
+#botao{
+	border: 1px solid red;
+	height: 300px;
+	text-align: center;
+}
+
+footer{
+	border: 1px solid pink;
+	height: 100px;
+	text-align: center;
+}
